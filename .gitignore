@@ -74,5 +74,8 @@ config.yaml
 config.local.*
 
 .pckl
+.PCKL
 .toml
 .lock
+
+.python-version
