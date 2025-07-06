@@ -1,0 +1,78 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+venv/
+ENV/
+
+# Jupyter and notebook checkpoints
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Environment and secrets
+.env
+.env.*
+*.env
+*.secret
+secrets.*
+*.key
+*.pem
+*.crt
+*.p12
+*.pfx
+*.db
+*.sqlite3
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE/project files
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+*.code-workspace
+
+# Data/output
+*.csv
+*.tsv
+*.parquet
+*.h5
+*.hdf5
+*.pkl
+*.joblib
+*.npy
+*.npz
+*.bak
+*.tmp
+
+# Misc
+*.swp
+*.bak
+*.tmp
+
+# Node/npm (if any JS tooling)
+node_modules/
+
+# Coverage/test
+.coverage
+htmlcov/
+.tox/
+.nox/
+.pytest_cache/
+
+# Ignore local config
+config.yaml
+config.local.*
+
+.pckl
+.toml
+.lock
